@@ -857,7 +857,7 @@ address { font-style: normal; }
 .footer__bottom p {
   font-size: 0.7rem;
   font-weight: var(--fw-light);
-  color: #3d3830;
+  /* color: #3d3830; */
   line-height: 1.8;
 }
 
